@@ -5,7 +5,7 @@
 		<div class="col-md-2">
 		</div>
 		<div class="col-md-8">
-			<?= form_open('admin/login',['class'=>'form-horizontal']); ?>
+			<?= form_open('login/check_login',['class'=>'form-horizontal']); ?>
   			<fieldset>
     			<legend>Login</legend>
     			<div class="form-group">
